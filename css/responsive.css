@@ -1,0 +1,808 @@
+/*===============================
+        Max Width 990px 
+================================*/
+@media all and (max-width:990px) {
+
+        .header-content {
+                margin-top: 17rem;
+        }
+
+        .header-menu ul li {
+                padding: 0px 17px;
+        }
+
+        .header-content h1 {
+                font-size: 3rem;
+        }
+
+
+        .about-content-area h2 {
+                font-size: 30px;
+        }
+
+        .about-me {
+                margin-top: 3rem;
+        }
+
+        .about-content-area p {
+                font-size: 16px;
+                line-height: 20px;
+                color: white;
+        }
+
+        #team .team-img img {
+                width: 93%;
+                height: auto;
+
+        }
+
+        #team .team-single:hover .team-img>img {
+                margin-left: -25px;
+        }
+
+        #team .team-single:hover .team-social>ul {
+                right: -11px;
+        }
+
+        #team .team-section-text {
+                margin-left: 25px;
+        }
+
+        .section-count>span {
+                font-size: 54px;
+        }
+
+        .section-title {
+                font-size: 32px;
+        }
+
+        .section-text p {
+                line-height: 21px;
+                font-size: 13px;
+        }
+
+}
+
+/*===============================
+        Max Width 768px 
+================================*/
+@media all and (max-width:768px) {
+
+        .header-content-area {
+                padding-top: 14rem;
+        }
+
+        .header-top-area {
+                padding: 25px 10px;
+                height: unset;
+        }
+
+        .header-top-area.black {
+                height: unset;
+                padding: 20px 10px;
+        }
+
+        .main-header-area {
+                height: 90vh;
+        }
+
+        .overlay {
+                height: 90vh;
+        }
+
+        #section1 {
+                background-position: center;
+        }
+
+        #section2 {
+                background-position: center;
+        }
+
+        .header-menu ul li {
+                padding: 0px 6px;
+        }
+
+        .header-logo a img {
+                width: 77px;
+        }
+
+        .header-menu ul li a {
+                font-size: 18px;
+        }
+
+        .header-content {
+                margin-top: 15rem;
+                margin-left: 0;
+        }
+
+        .header-content h1 {
+                font-size: 3rem;
+        }
+
+        .about-area {
+                padding-bottom: 0;
+        }
+
+        .about-me {
+                margin-top: 2rem;
+        }
+
+        .about-content-area h2 {
+                font-size: 35px;
+        }
+
+        .about-content-area p {
+                font-size: 16px;
+                line-height: 20px;
+                margin: 1rem 0;
+                text-align: justify;
+        }
+
+        .about-content-area {
+                text-align: center;
+        }
+
+        .about-content-area button {
+                padding: 12px 31px;
+        }
+
+        .about-content-area .button {
+                left: unset;
+        }
+
+        #skill li {
+                width: 94%;
+                margin-top: -4px;
+        }
+
+        .graphic-design {
+                width: 42%;
+        }
+
+        .html {
+                width: 44%;
+        }
+
+        .css {
+                width: 45%;
+        }
+
+        .bootstrap {
+                width: 41%;
+        }
+
+        #skill {
+                display: grid;
+                grid-template-columns: auto auto;
+                margin: 0;
+                width: 100%;
+        }
+
+        .about-progress-area {
+                margin-top: 6rem;
+        }
+
+        #skill li h3 {
+                top: -25px;
+                font-size: 18px;
+        }
+
+        .work-photo a img {
+                height: 225px;
+        }
+
+        .main-work-area {
+                height: 700px;
+        }
+
+        .first {
+                background-repeat: repeat;
+        }
+
+        .service-content {
+                grid-template-columns: auto auto;
+        }
+
+        .fake-div h2 {
+                font-size: 21px;
+        }
+
+        .team-list ul {
+                display: grid;
+        }
+
+        #team .team-img img {
+                width: 90%;
+                height: auto;
+        }
+
+        #team .team-list>ul>li.active::after {
+                right: 15px !important;
+                top: 16%;
+                transform: rotate(0deg);
+        }
+
+        #team .team-single:hover .team-social>ul {
+                right: -3px;
+        }
+
+        #team .team-list>ul>li {
+                margin: 10px 0;
+        }
+
+        #team .team-section-text {
+                text-align: center;
+                margin-top: 3rem;
+        }
+
+        #team {
+                padding: 50px 0;
+        }
+
+        .contact-message {
+                margin-top: 0px;
+        }
+
+        .contact-message form input {
+                margin-top: 15px;
+        }
+
+        .contact-message form textarea {
+                margin-top: 15px;
+                min-height: 200px;
+                max-height: 203px;
+        }
+
+        .contact-message form input[type="submit"] {
+                margin-top: 25px;
+        }
+
+        .contact-message form {
+                margin-top: 0;
+        }
+
+        .address-area {
+                margin-top: 0;
+                text-align: center;
+        }
+}
+
+/*===============================
+        Max Width 575px 
+================================*/
+@media all and (max-width:575px) {
+
+
+        .section-padding {
+                padding: 2rem 0;
+        }
+
+        .main-header-area {
+                height: 75vh;
+                background-position: center;
+        }
+
+        .stellar-content {
+                background-size: 100% 100%;
+        }
+
+        .header-top-area {
+                height: 55px;
+                padding: 0 5px;
+        }
+
+        .header-top-area.black {
+                height: 55px;
+                padding: 0 5px;
+        }
+
+        .overlay {
+                height: 75vh;
+        }
+
+        .header-content-area {
+                margin-top: 0;
+        }
+
+        .header-content-area h2 {
+                font-size: 33px;
+        }
+
+        .header-content-area a {
+                font-size: 19px;
+                padding: 8px 27px;
+                margin-top: 1rem;
+        }
+
+        .header-content h1 {
+                font-size: 29px;
+        }
+
+        .header-logo a img {
+                width: 40px;
+        }
+
+        .header-menu ul li {
+                padding: 0px 4px;
+        }
+
+        .header-menu ul li a {
+                font-size: 11px;
+        }
+
+        .common-class h1 {
+                font-size: 30px;
+        }
+
+        .about-content-area h2 {
+                font-size: 23px;
+                margin-top: 10px;
+        }
+
+        .about-content-area p {
+                line-height: 17px;
+                font-size: 13px;
+        }
+
+        #skill li {
+                margin-bottom: 45px;
+        }
+
+        .about-me {
+                margin-top: 1rem;
+        }
+
+        .about-content-area button {
+                padding: 9px 24px;
+                margin-bottom: 30px;
+        }
+
+        .about-progress-area {
+                margin-top: 7rem;
+        }
+
+        .filter-menu ul li button {
+                padding: 7px 10px;
+                font-size: 11px;
+        }
+
+        .main-work-area {
+                height: 517px;
+                margin-bottom: 3rem;
+        }
+
+        .work-photo a img {
+                height: 160px;
+                width: 97%;
+                margin-top: 7px;
+        }
+
+        .work-photo a :hover {
+                transform: scale(1.01);
+        }
+
+        .work-content-area {
+                padding-top: 3rem;
+        }
+
+        .work-photo {
+                grid-template-columns: auto auto;
+                grid-gap: 3px;
+        }
+
+        .service-content {
+                grid-template-columns: auto;
+                grid-gap: 10px;
+                margin-top: 3rem;
+        }
+
+        .single-service-content {
+                padding: 20px 2px;
+        }
+
+        .single-service-content h2 {
+                margin: 5px 0;
+                font-size: 18px;
+        }
+
+        .single-service-content p {
+                font-size: 14px;
+                line-height: 20px;
+        }
+
+        .fake-div {
+                padding-top: 2rem;
+        }
+
+        .fake-div h2 {
+                font-size: 12px;
+        }
+
+        .counter-value {
+                font-size: 15px;
+                padding-top: 10px;
+        }
+
+        #team .team-img img {
+                width: 81%;
+                height: auto;
+        }
+
+        #team .team-section-text {
+                padding-bottom: 0px;
+        }
+
+        .team-list ul {
+                display: unset;
+        }
+
+        #team .team-single:hover .team-social>ul {
+                right: 0px;
+        }
+
+        #team .team-list>ul>li.active::after {
+                right: 25px !important;
+                top: 75%;
+                transform: rotate(90deg);
+        }
+
+        #team .team-section-text {
+                margin-left: 0;
+        }
+
+        .email-area {
+                margin-top: 0;
+        }
+
+        .message-area {
+                margin-top: 30px;
+        }
+
+        .message-grid {
+                display: grid;
+        }
+
+        .contact-message {
+                margin-top: 0px;
+        }
+
+        .message-one input {
+                padding: 10px;
+        }
+
+        .contact-message form input {
+                margin-top: 15px;
+        }
+
+        .contact-message form textarea {
+                width: 100%;
+                min-height: 150px;
+                max-height: 150px;
+        }
+
+        .contact-message form input[type="submit"] {
+                margin-top: 15px;
+                font-size: 14px;
+                padding: 14px;
+        }
+
+        .contact-message form {
+                margin-top: 0;
+        }
+
+        .single-address {
+                margin-top: 1rem;
+                width: 500%;
+        }
+
+        .address-area {
+                text-align: left;
+        }
+
+        /* ============Mobile Menu==============*/
+
+        .space-bet {
+                justify-content: space-between;
+        }
+
+        .header-top-area {
+                display: unset;
+        }
+
+        .header-menu ul {
+                display: inline-block;
+        }
+
+        .header-logo {
+                padding: 15px 5px;
+                display: flex;
+                justify-content: space-between;
+        }
+
+        .mobile-nav {
+                display: inline-block;
+                background: transparent;
+                border: none;
+                font-size: 25px;
+        }
+
+        .mobile-nav span {
+                width: 28px;
+                height: 3px;
+                display: block;
+                margin: 5px 0px;
+                transition: 0.5s;
+        }
+
+        .mobile-nav.open span.three {
+                display: none;
+        }
+
+        .mobile-nav.open span {
+                margin: 0;
+        }
+
+        .mobile-nav.open span.one {
+                transform: rotate(45deg);
+        }
+
+        .mobile-nav.open span.two {
+                transform: rotate(-45deg);
+                margin-top: -2px;
+        }
+
+        .main-menu {
+                text-align: left;
+                position: fixed;
+                background: #1A1313;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: 0;
+                transition: 0.3s;
+        }
+
+        .main-menu.Navclose {
+                transform: translate(-100%, 0px);
+                transition: 0.5s;
+        }
+
+        .mobile-nav-heading {
+                padding: 15px 20px;
+                box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+                display: block;
+        }
+
+        .close-mobile-nav {
+                background: transparent;
+                border: none;
+                font-size: 23px;
+        }
+
+        .main-menu ul {
+                padding: 20px;
+                width: 100%;
+        }
+
+        .main-menu ul li {
+                display: block;
+                padding: 10px 0px;
+                border-bottom: 1px solid #FFB293;
+        }
+
+        .main-menu ul li a {
+                font-size: 16px;
+                display: block;
+                font-family: 'muli';
+        }
+
+}
+
+/*===============================
+        Max Width 360px 
+================================*/
+@media all and (max-width: 360px) {
+
+        .section-padding {
+                padding: 2rem 0;
+        }
+
+        .main-header-area {
+                height: 65vh;
+                background-position: center;
+        }
+
+        .overlay {
+                height: 65vh;
+        }
+
+        .header-content-area {
+                padding-top: 11rem;
+        }
+
+        .header-content-area h2 {
+                font-size: 29px;
+        }
+
+        .header-content-area a {
+                font-size: 18px;
+                padding: 6px 21px;
+                margin-top: 1rem;
+        }
+
+        .header-content h1 {
+                font-size: 29px;
+        }
+
+        .header-logo a img {
+                width: 40px;
+        }
+
+        .header-menu ul li {
+                padding: 12px 4px;
+        }
+
+        .header-menu ul li a {
+                font-size: 19px;
+        }
+
+        .common-class h1 {
+                font-size: 30px;
+        }
+
+        .about-content-area h2 {
+                font-size: 20px;
+                margin-top: 10px;
+        }
+
+        .about-content-area p {
+                line-height: 16px;
+                font-size: 12px;
+        }
+
+        #skill li {
+                margin-bottom: 45px;
+        }
+
+        .about-me {
+                margin-top: 1rem;
+        }
+
+        .about-content-area button {
+                padding: 5px 15px;
+                margin-bottom: 30px;
+        }
+
+        .about-progress-area {
+                margin-top: 7rem;
+        }
+
+        .work-content-area {
+                padding-top: 3rem;
+        }
+
+        .filter-menu ul li button {
+                padding: 6px 7px;
+        }
+
+        .work-photo {
+                grid-template-columns: auto auto;
+                grid-gap: 3px;
+        }
+
+        .work-photo a img {
+                height: 160px;
+                border-radius: 3px;
+        }
+
+        .first {
+                background-repeat: repeat;
+        }
+
+        .service-content {
+                grid-template-columns: auto;
+                grid-gap: 10px;
+                margin-top: 3rem;
+        }
+
+        .single-service-content {
+                padding: 20px 2px;
+        }
+
+        .single-service-content h2 {
+                margin: 5px 0;
+                font-size: 18px;
+        }
+
+        .single-service-content p {
+                font-size: 14px;
+                line-height: 20px;
+        }
+
+        .fake-div {
+                padding-top: 2rem;
+        }
+
+        .fake-div h2 {
+                font-size: 12px;
+        }
+
+        .counter-value {
+                font-size: 15px;
+                padding-top: 10px;
+        }
+
+        .full-width {
+                max-width: 100%;
+        }
+
+        #team .team-single {
+                margin: 12px auto 0;
+        }
+
+        #team .team-section-text {
+                margin-left: 0;
+        }
+
+        .message-area {
+                margin-top: 30px;
+        }
+
+        .message-grid {
+                display: grid;
+        }
+
+        .contact-message {
+                margin-top: 0px;
+        }
+
+        .message-one input {
+                padding: 10px;
+        }
+
+        .contact-message form input {
+                margin-top: 15px;
+        }
+
+        .contact-message form textarea {
+                margin-top: 10px;
+                min-height: 200px;
+                max-height: 203px;
+        }
+
+        .contact-message form textarea {
+                margin-top: 10px;
+                min-height: 140px;
+                max-height: 140px;
+        }
+
+        .contact-message form input[type="submit"] {
+                width: 170px;
+                height: 40px;
+                margin-top: 15px;
+                font-size: 14px;
+        }
+
+        #team .team-section-text {
+                padding-bottom: 0px;
+        }
+
+        .contact-message form {
+                margin-top: 0;
+        }
+
+        .single-address {
+                margin-top: 1rem;
+                width: 500%;
+        }
+
+        .address-area {
+                text-align: left;
+        }
+
+}
+
+/*===============================
+        Max Width 320px 
+================================*/
+@media all and (max-width: 320px) {}
